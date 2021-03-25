@@ -39,14 +39,14 @@
 <img alt="Oracle" src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
 
 
-<p align="center" style="margin-top: 20"> 
+<p align="center" > 
   
  ## Profile visits :eyes: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/Gabriel-Gondo/count.svg" />
  </p>
 
- ## Views in <img align="center" width="120" src="https://www.hitcode.com.br/wp-content/uploads/2018/07/logo.png"> members profiles<br>
+ ## Views in <img align="top" margin-top="50" width="100" src="https://user-images.githubusercontent.com/79661557/112557820-20da4980-8dac-11eb-864b-d6ebbe9e4d03.png"> members profiles<br>
  
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/hitcode/count.svg" />
