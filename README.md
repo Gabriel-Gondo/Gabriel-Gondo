@@ -46,8 +46,13 @@
    <img alingn="center" src="https://profile-counter.glitch.me/Gabriel-Gondo/count.svg" />
  </p>
 
- ## Views in HICODE members profiles<br>
+ ## Views in <img align="center" width="120" src="https://www.hitcode.com.br/wp-content/uploads/2018/07/logo.png"> members profiles<br>
+ 
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/hitcode/count.svg" />
  </p>
 </p>
+
+
+
+
