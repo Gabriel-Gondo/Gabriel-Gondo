@@ -37,10 +37,10 @@
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
 <img alt="Oracle" src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
-<br>
-<br>
 
-<p align="center"> 
+
+<p align="center" style="margin-top: 20"> 
+  
  ## Profile visits :eyes: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/Gabriel-Gondo/count.svg" />
