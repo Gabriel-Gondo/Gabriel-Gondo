@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Natã Souza Santos.
+### Hi there 👋 My name is Gabriel Gondo.
 
 
 🌱  I’m currently learning good practices to develop both front-end and back-end using NodeJs, React and React Native with JavaScript and TypeScript
