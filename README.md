@@ -4,7 +4,19 @@
 
 <a href="https://www.linkedin.com/in/gabriel-gondo-1b9668173/">
   <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a><br><br>
+</a>
+<a href="https://api.whatsapp.com/send?phone=5511946952031">
+ <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+<br><br>
+
+```js
+<Bio 
+  name= { "Gabriel Gondo" }
+  age = {21}
+  course = { "computer science" }
+/>
+```
 
 
 <a href="https://github.com/Gabriel-Gondo">
