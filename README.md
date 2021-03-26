@@ -1,4 +1,3 @@
-<img height="180" src=”https://user-images.githubusercontent.com/79661557/112698489-85f37500-8e68-11eb-8fac-2ca576fa38e3.gif”>
 ### Hey <D𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/> 👋
 ------------------
 
