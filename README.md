@@ -1,4 +1,10 @@
-### Hi there 👋 My name is Gabriel Gondo.
+### Hey <D𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/> 👋
+------------------
+
+
+<a href="https://www.linkedin.com/in/gabriel-gondo-1b9668173/">
+  <img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a><br><br>
 
 
 <a href="https://github.com/Gabriel-Gondo">
@@ -54,9 +60,7 @@
 </p>
 
 
-### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/12167037194?si=QbaUAlW8QmqWxgYjr2fgEQ)
 
 
 
