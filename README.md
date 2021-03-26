@@ -54,10 +54,10 @@
 </p>
 
 
-### Now Playing 🎧
+### Spotify Playing 🎧
 
-[![Spotify](https://spotify-recently-played-6w8ea7g4e.vercel.app/api/spotify)](https://open.spotify.com/user/XhzXRVAWRvues_3GcDrOBQ)
-<br/>
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/QbaUAlW8QmqWxgYjr2fgEQ)
+
 
 
 
