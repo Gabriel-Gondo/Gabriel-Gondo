@@ -56,7 +56,7 @@
 
 ### Now Playing 🎧
 
-[![Spotify](https://spotify-recently-played-6w8ea7g4e.vercel.app/api/spotify)](https://open.spotify.com/user/12167037194?si=XhzXRVAWRvues_3GcDrOBQ)
+[![Spotify](https://spotify-recently-played-6w8ea7g4e.vercel.app/api/spotify)](https://open.spotify.com/user/XhzXRVAWRvues_3GcDrOBQ)
 <br/>
 
 
