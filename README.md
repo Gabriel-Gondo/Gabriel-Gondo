@@ -6,9 +6,11 @@
 <a href="https://www.linkedin.com/in/gabriel-gondo-1b9668173/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+<!---
 <a href="https://api.whatsapp.com/send?phone=5511946952031">
  <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
+-->
 <a href="https://github.com/Gabriel-Gondo/aula-android/files/6246361/certificados.zip">
  <img width="130" alt="Certificados" src="https://user-images.githubusercontent.com/79661557/114242161-cff85280-9960-11eb-8dc8-7248272b0f46.png"/>
 </a>
