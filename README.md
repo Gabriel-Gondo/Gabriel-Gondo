@@ -12,7 +12,7 @@
 </a>
 -->
 <a href="https://github.com/Gabriel-Gondo/aula-android/files/6246361/certificados.zip">
- <img width="130" alt="Certificados" src="https://user-images.githubusercontent.com/79661557/114242161-cff85280-9960-11eb-8dc8-7248272b0f46.png"/>
+ <img width="114" alt="Certificados" src="https://user-images.githubusercontent.com/79661557/114243049-4cd7fc00-9962-11eb-8a74-9bbee1f108bf.png"/>
 </a>
 <br><br>
 
