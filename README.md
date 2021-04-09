@@ -10,7 +10,7 @@
  <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 <a href="https://github.com/Gabriel-Gondo/aula-android/files/6246361/certificados.zip">
- <img width="120" alt="Certificados" src="https://user-images.githubusercontent.com/79661557/114241899-57919180-9960-11eb-928e-90208abbdb1d.png"/>
+ <img width="130" alt="Certificados" src="https://user-images.githubusercontent.com/79661557/114242161-cff85280-9960-11eb-8dc8-7248272b0f46.png"/>
 </a>
 <br><br>
 
