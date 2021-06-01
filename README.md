@@ -11,9 +11,9 @@
  <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 -->
-<a href="https://github.com/Gabriel-Gondo/aula-android/files/6246361/certificados.zip">
+<!-- <a href="https://github.com/Gabriel-Gondo/aula-android/files/6246361/certificados.zip">
  <img width="114" alt="Certificados" src="https://user-images.githubusercontent.com/79661557/114243049-4cd7fc00-9962-11eb-8a74-9bbee1f108bf.png"/>
-</a>
+</a> -->
 <br><br>
 
 ```js
