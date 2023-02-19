@@ -6,11 +6,6 @@
 <a href="https://www.linkedin.com/in/gabriel-gondo-1b9668173/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<!---
-<a href="https://api.whatsapp.com/send?phone=5511946952031">
- <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
--->
 <!-- <a href="https://github.com/Gabriel-Gondo/aula-android/files/6246361/certificados.zip">
  <img width="114" alt="Certificados" src="https://user-images.githubusercontent.com/79661557/114243049-4cd7fc00-9962-11eb-8a74-9bbee1f108bf.png"/>
 </a> -->
@@ -19,7 +14,7 @@
 ```js
 <Bio 
   name= { "Gabriel Gondo" }
-  age = {22}
+  age = { 23 }
   course = { "computer science" }
 />
 ```
@@ -67,13 +62,13 @@
   
  ## Profile visits :eyes: <br>
  <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/Gabriel-Gondo/count.svg" />
+   <img align="center" src="https://profile-counter.glitch.me/Gabriel-Gondo/count.svg" />
  </p>
 
  ## Views in <img align="bottom" margin-top="50" width="80" src="https://user-images.githubusercontent.com/79661557/112557820-20da4980-8dac-11eb-864b-d6ebbe9e4d03.png"> members profiles<br>
  
  <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/hitcode/count.svg" />
+   <img align="center" src="https://profile-counter.glitch.me/hitcode/count.svg" />
  </p>
 </p>
 
